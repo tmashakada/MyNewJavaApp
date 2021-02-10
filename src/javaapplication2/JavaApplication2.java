@@ -18,5 +18,7 @@ public class JavaApplication2 {
         // TODO code application logic here
         System.out.println("I Love Java Programming ");
     }
-    
+    public void display(){
+        System.out.println();
+    }
 }
